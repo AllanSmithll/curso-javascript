@@ -1,0 +1,16 @@
+[
+    {
+        "nome": "Allan",
+        "idade": 18,
+        "profissão": "estudante",
+        "esta_trabalhando": false,
+        "gosta_de_livros": true
+    },
+    {
+        "nome": "Anderson",
+        "idade": 19,
+        "profissão": "estudante",
+        "esta_trabalhando": false,
+        "gosta_de_livros": false
+    }
+]
