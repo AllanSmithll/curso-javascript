@@ -1,0 +1,1 @@
+console.log("Isso também é Script no body.");
