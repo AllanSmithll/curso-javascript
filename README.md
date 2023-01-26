@@ -1,2 +1,2 @@
-# Curso-Javascript-Youtube
-Exercícios importantes feitos durante o curso de Javascript do professor Matheus Battisti, no Youtube.
+# Curso-Javascript
+Exercícios importantes feitos durante o curso de Javascript do professor Matheus Battisti, da comunidade Hora de Codar, no Youtube.
